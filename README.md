@@ -1,4 +1,4 @@
 # apna-clg-demo
 self project
 <br>
-By Mengani Shivathmika
+By Mengani (shiva)
